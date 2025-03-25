@@ -1,0 +1,28 @@
+CMake Warning in C:/Users/Heman/Files Computer Science 4810/Artificial Intelligence Project 4810/ArtificialIntelligence_Flutter_App_develop/application_ai_catchmyeye_travel/android/app/.cxx/Debug/5fs4g4d2/arm64-v8a/CMakeFiles/CMakeTmp/CMakeLists.txt:
+  The object file directory
+
+    C:/Users/Heman/Files Computer Science 4810/Artificial Intelligence Project 4810/ArtificialIntelligence_Flutter_App_develop/application_ai_catchmyeye_travel/android/app/.cxx/Debug/5fs4g4d2/arm64-v8a/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_1fce3.dir/./
+
+  has 246 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    CMakeCCompilerABI.c.o
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+CMake Warning in C:/Users/Heman/Files Computer Science 4810/Artificial Intelligence Project 4810/ArtificialIntelligence_Flutter_App_develop/application_ai_catchmyeye_travel/android/app/.cxx/Debug/5fs4g4d2/arm64-v8a/CMakeFiles/CMakeTmp/CMakeLists.txt:
+  The object file directory
+
+    C:/Users/Heman/Files Computer Science 4810/Artificial Intelligence Project 4810/ArtificialIntelligence_Flutter_App_develop/application_ai_catchmyeye_travel/android/app/.cxx/Debug/5fs4g4d2/arm64-v8a/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_028ec.dir/./
+
+  has 246 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    CMakeCXXCompilerABI.cpp.o
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
