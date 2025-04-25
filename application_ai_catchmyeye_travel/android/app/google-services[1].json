@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "205167597123",
+    "project_id": "caughtmyeye-7649f",
+    "storage_bucket": "caughtmyeye-7649f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205167597123:android:ec593a2c8a2634b32a66f6",
+        "android_client_info": {
+          "package_name": "com.caughtmyeye.appname"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwaE6WRW-NeJ8uSX9SSYd1e-9jVLtofyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
